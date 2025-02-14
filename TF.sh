@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Today is Sunday"
+eco "Today is Sunday"
 if [ $? -eq 0 ]
 then
     echo "true"
